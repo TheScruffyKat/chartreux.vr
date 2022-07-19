@@ -7,3 +7,7 @@ Chartreux makes use of the [Mirror Networking](https://github.com/vis2k/Mirror) 
 ![Why Use EOS](https://github.com/TheScruffyKat/chartreux.vr/blob/main/github/WhyUseEOS.png?raw=true)
 
 Epic Online Services (EOS) offer free and secure online multiplayer using their P2P and relay services. This means you do not need to worry abouts costs and player counts. Chartreux is not affiliated or endorsed by Epic Games and is just a package allowing easy access to EOS.
+
+![Setup](https://github.com/TheScruffyKat/chartreux.vr/blob/main/github/Setup.png?raw=true)
+
+After importing the package into unity, open Chartreux > VR > Setup from the top menu bar to setup your project. Setup won't take long!
